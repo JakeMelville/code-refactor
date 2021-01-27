@@ -20,10 +20,11 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .seo {                          
     color: #d9dcd6;
 }
 
+/* for positioning of the 3 top tabs*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,7 +52,8 @@ p {
 }
 
 .hero {
-    height: 800px;
+    /*changed height form 400px to 900px*/
+    height: 900px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
